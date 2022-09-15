@@ -2,7 +2,7 @@
   <h2>WPF Code Rules</h2>
   <br/>
  
-  이 레포지토리는 DevNcore팀이 관리하고 있습니다.
+  이 레포지토리는 Hask-Team이 관리하고 있습니다. (이는 연습을 위한 Demo 자료입니다.)
   
   <br />
   
